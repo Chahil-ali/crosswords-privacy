@@ -1,8 +1,8 @@
 # Privacy Policy
 
-**Last updated: May 7, 2026**
+**Last updated: May 8, 2026**
 
-This Privacy Policy describes how **Crosswords** (the "App", package name `com.ali.souf.crosswords`) handles information when you use the App. The App is provided by Soufiane Chalouh ("we", "us", "our").
+This Privacy Policy describes how **Daily Crossword: Trivia & Pics** (the "App", package name `com.ali.souf.crosswords`) handles information when you use the App. The App is provided by Soufiane Chalouh ("we", "us", "our").
 
 If you have any questions about this policy, you can contact us at:
 **soufianechalouh@gmail.com**
